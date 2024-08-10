@@ -37,7 +37,7 @@ Polegar para baixo: Diminui o volume.<br>
 Para encerrar a execução, feche a janela de visualização ou pressione qualquer tecla.
 
 ## Estrutura
-A estrutura do projeto está organizada da seguinte forma:
+A estrutura do projeto está organizada da seguinte forma:<br>
 📂 Reconhecimento das maos<br>
 ├── 📄 reconhecimento.py           # Script principal que contém a lógica de detecção de movimentos e controle de volume.<br>
 └── 📄 README.md           # Instruções e informações sobre o projeto.<br>
