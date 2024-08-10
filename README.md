@@ -38,9 +38,9 @@ Para encerrar a execução, feche a janela de visualização ou pressione qualqu
 
 ## Estrutura
 A estrutura do projeto está organizada da seguinte forma:
-📂 nome-do-repositorio
-├── 📄 projjj.py           # Script principal que contém a lógica de detecção de movimentos e controle de volume.
-└── 📄 README.md           # Instruções e informações sobre o projeto.
+📂 Reconhecimento das maos<br>
+├── 📄 reconhecimento.py           # Script principal que contém a lógica de detecção de movimentos e controle de volume.<br>
+└── 📄 README.md           # Instruções e informações sobre o projeto.<br>
 
 ## Contribuição
 Você pode ajustar o conteúdo conforme necessário antes de adicionar ao seu repositório no GitHub. Se precisar de mais alguma coisa, estou aqui para ajudar. Sinta-se à vontade para contribuir com melhorias ou correções neste projeto. Sugestões e pull requests são sempre bem-vindos.
