@@ -32,8 +32,8 @@ Inicie o script:
 
 Ajuste o volume com os gestos:
 
-Polegar para cima: Aumenta o volume.
-Polegar para baixo: Diminui o volume.
+Polegar para cima: Aumenta o volume.<br>
+Polegar para baixo: Diminui o volume.<br>
 Para encerrar a execução, feche a janela de visualização ou pressione qualquer tecla.
 
 ## Estrutura
