@@ -28,7 +28,7 @@ Para executar o projeto, siga as etapas abaixo:
 
 Inicie o script:
 
-     reconhecimento.py
+     python reconhecimento.py
 
 Ajuste o volume com os gestos:
 
